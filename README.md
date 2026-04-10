@@ -1,5 +1,7 @@
 <div align="center">
 
+Discord https://discord.gg/eMJdaP7Nqs
+
 # 🚀 LogSearch.xyz
 
 **Modern, Hızlı ve Güvenilir API Tabanlı Log Arama Altyapısı**
