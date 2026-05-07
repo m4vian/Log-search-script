@@ -1,6 +1,6 @@
 <div align="center">
 
-Discord https://discord.gg/eMJdaP7Nqs
+Discord 7x5g
 
 # 🚀 LogSearch.xyz
 
